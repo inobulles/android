@@ -1,6 +1,8 @@
-# android
+# AQUA Android Distribution
 
 LineageOS-based Android ROM with features to integrate with AQUA ecosystem 👽🤖
+
+The tentative stylized name for this is A₂D.
 
 ## Building
 
